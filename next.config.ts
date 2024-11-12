@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  domains: ["cdn.awsli.com.br"],
 };
 
 export default nextConfig;
